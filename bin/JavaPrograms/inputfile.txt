@@ -1,0 +1,4 @@
+data/words1.txt
+data/words2.txt
+data/words3.txt
+data/words4.txt
